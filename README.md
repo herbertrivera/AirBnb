@@ -2,7 +2,7 @@
 
 ## Database Schema Design
 
-`https://dbdiagram.io/d/642f3d768615191cfa8c0b92`
+`<iframe width="560" height="315" src='https://dbdiagram.io/embed/642f3d768615191cfa8c0b92'> </iframe>`
 
 ## API Documentation
 
