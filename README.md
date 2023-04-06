@@ -2,7 +2,7 @@
 
 ## Database Schema Design
 
-`<insert database schema design here>`
+`https://dbdiagram.io/d/642f3d768615191cfa8c0b92`
 
 ## API Documentation
 
