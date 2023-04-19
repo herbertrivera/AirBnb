@@ -19,8 +19,6 @@ router.post('/test', function(req, res) {
     return res.json({ user: user });
   });
 
-
-
 router.get(
   '/restore-user',
   (req, res) => {
